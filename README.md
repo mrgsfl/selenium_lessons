@@ -73,3 +73,18 @@ https://stepik.org/course/575
 	8)Нажать на кнопку "Submit".
 
 Решение: lesson2_1_step7.py
+
+Урок 2.2 шаг 3: https://stepik.org/lesson/228249/step/3
+Задание на работу с выпадающим списком
+
+Напишите код, который реализует следующий сценарий:
+	1)Открыть страницу http://suninjuly.github.io/selects1.html
+	2)Посчитать сумму заданных чисел
+	3)Выбрать в выпадающем списке значение равное расчитанной сумме
+	4)Нажать кнопку "Submit"
+
+Когда ваш код заработает, попробуйте запустить его на странице http://suninjuly.github.io/selects2.html. 
+
+Решение: 
+для страницы http://suninjuly.github.io/selects1.html : lesson2_2_step3.py
+для страницы http://suninjuly.github.io/selects2.html : lesson2_2_step3_1.py
