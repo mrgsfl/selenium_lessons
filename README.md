@@ -88,3 +88,20 @@ https://stepik.org/course/575
 Решение: 
 для страницы http://suninjuly.github.io/selects1.html : lesson2_2_step3.py
 для страницы http://suninjuly.github.io/selects2.html : lesson2_2_step3_1.py
+
+Урок 2.2 шаг 6: https://stepik.org/lesson/228249/step/6
+
+Задание на использование метода execute_script
+В данной задаче нужно преодолеть капчу для роботов и футер, перекрывающий некоторые элементы. 
+Итак, напишите код, чтобы:
+
+	1)Открыть страницу http://SunInJuly.github.io/execute_script.html.
+	2)Считать значение для переменной x.
+	3)Посчитать математическую функцию от x.
+	4)Проскроллить страницу вниз.
+	5)Ввести ответ в текстовое поле.
+	6)Выбрать checkbox "I'm the robot".
+	7)Переключить radiobutton "Robots rule!".
+	8)Нажать на кнопку "Submit".
+
+Решение: lesson2_2_step6.py
